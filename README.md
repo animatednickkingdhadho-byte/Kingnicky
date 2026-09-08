@@ -12,9 +12,9 @@ A redesigned responsive prototype based on the approved DNA Brand visual directi
 - index.html
 - styles.css
 - script.js
-- assets/dna-logo.png
-- assets/hero-healthtech.jpg
-- assets/about-dna.jpg
+- dna-logo.png
+- hero-healthtech.jpg
+- about-dna.jpg
 
 Open `index.html` locally to preview.
 
